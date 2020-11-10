@@ -1,0 +1,15 @@
+{
+   "browser_action": {
+      "default_icon": "img/icon_active.png",
+      "default_popup": "html/popup.html",
+	  "default_title": "Sipotek Visual Inspection"
+   },
+   "description": "Shenzhen Sipotek Technology is a automatic visual inspection machine ,automated vision inspection system from china.",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png"
+   },
+   "manifest_version": 2,
+   "name": "Sipotek Visual Inspection",
+   "version": "1.1"
+}
